@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://ololobster.github.io/linux-cli/</loc>
-        <lastmod>2021-10-22</lastmod>
+        <lastmod>2021-11-11</lastmod>
     </url>
     <url>
         <loc>https://ololobster.github.io/git-notes/</loc>
@@ -10,6 +10,6 @@
     </url>
     <url>
         <loc>https://ololobster.github.io/cmake-notes/</loc>
-        <lastmod>2021-10-22</lastmod>
+        <lastmod>2021-11-11</lastmod>
     </url>
 </urlset>
